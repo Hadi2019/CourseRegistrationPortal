@@ -1,0 +1,28 @@
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.csprojAssemblyReference.cache
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\MainWindow.g.cs
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\App.g.cs
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01_MarkupCompile.cache
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01_MarkupCompile.lref
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.exe.config
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.exe
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.pdb
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\MainWindow.baml
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.g.resources
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.Properties.Resources.resources
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.csproj.GenerateResource.cache
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.exe
+H:\COMP212\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.pdb
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.exe.config
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.exe
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\bin\Debug\Hadi_Alkhashman_Ex01.pdb
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.csprojAssemblyReference.cache
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\MainWindow.g.cs
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\App.g.cs
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01_MarkupCompile.cache
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01_MarkupCompile.lref
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\MainWindow.baml
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.g.resources
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.Properties.Resources.resources
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.csproj.GenerateResource.cache
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.exe
+D:\college study\Fourth Term\004 Programming 03\MidTerm\Hadi-Alkhashman_COMP212_004_Test01(2)\Hadi-Alkhashman_COMP212_004_Test01\Hadi_Alkhashman_Ex01\obj\Debug\Hadi_Alkhashman_Ex01.pdb
